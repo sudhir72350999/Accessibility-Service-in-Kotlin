@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accessibility Service in Kotlin</string>
+    <string name="accessibility_service_label">Be Code Service</string>
+    <string name="accessibility_service_description">my description</string>
+</resources>
